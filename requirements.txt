@@ -1,0 +1,35 @@
+# Web & API
+fastapi
+uvicorn
+pydantic
+requests
+
+# Data Science & ML
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+
+# Deep Learning
+torch
+optuna
+
+# NLP
+nltk
+spacy
+
+# LLM & GenAI
+langchain
+langgraph
+langchain-chroma
+langchain-google-genai
+chromadb
+
+# UI
+streamlit
+
+# Utilities
+python-dotenv
+pytest
