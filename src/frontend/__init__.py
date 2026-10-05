@@ -1,1 +1,1 @@
-"""Streamlit frontend components."""
+# Frontend module

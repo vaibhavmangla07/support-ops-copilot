@@ -1,35 +1,27 @@
-# Web & API
-fastapi
-uvicorn
-pydantic
-requests
-
-# Data Science & ML
+# Data & ML
 pandas
 numpy
 scikit-learn
-xgboost
+joblib
+
+# RAG
+sentence-transformers
+faiss-cpu
+
+# LLM & Configuration
+google-genai
+python-dotenv
+
+# API & Frontend
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+
+# Testing
+pytest
+
+# EDA
 matplotlib
 seaborn
-
-# Deep Learning
-torch
-optuna
-
-# NLP
-nltk
-spacy
-
-# LLM & GenAI
-langchain
-langgraph
-langchain-chroma
-langchain-google-genai
-chromadb
-
-# UI
-streamlit
-
-# Utilities
-python-dotenv
-pytest

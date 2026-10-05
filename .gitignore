@@ -33,3 +33,5 @@ models/checkpoints/
 # Logs
 logs/
 *.log
+
+docs/reports/
